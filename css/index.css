@@ -9,8 +9,20 @@ body {
 
 }
 
+a {
+    font-size: larger;
+}
+
+h1, h2, h3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 img {
     height: 500px;
     width: auto;
     border: 1px solid oldlace;
+}
+
+ul, ol {
+    color: brown;
 }
