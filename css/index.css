@@ -1,3 +1,16 @@
 body {
     background-color: peachpuff;
 }
+
+#Create {
+    border-radius: 50%;
+    height: 100px;
+    
+
+}
+
+img {
+    height: 500px;
+    width: auto;
+    border: 1px solid oldlace;
+}
